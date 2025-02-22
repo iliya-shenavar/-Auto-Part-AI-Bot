@@ -12,7 +12,7 @@ from tensorflow.keras.utils import to_categorical
 from sklearn.model_selection import train_test_split
 
 # Bot Settings
-TOKEN = "7697545029:AAG2LLF9avvywjIvmuTGgD4dk1tNLXQhvck"
+TOKEN = "It's private :)))"
 bot = telebot.TeleBot(TOKEN)
 
 # Class for Analysis DataBase
