@@ -50,7 +50,5 @@ python main.py
 ---
 
 ## 📜 License
-This project is licensed under the **MIT License**.  
-
-💡 *Feel free to contribute and improve AutoPartAI Bot!* 🚀
+This project is licensed under the Strict Proprietary License.Unauthorized use, modification, or distribution of this software is strictly prohibited without prior written permission from Iliya Shenavar and Mojtaba Khaleghi. For inquiries, please contact info@tkpc.com.
 
